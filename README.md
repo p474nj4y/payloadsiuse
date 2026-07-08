@@ -2,7 +2,7 @@
 
 A curated collection of **URL-encoded Cross-Site Scripting (XSS) payloads** intended for **authorized security testing**, WAF evaluation, and web application security research.
 
-> ⚠️ **Disclaimer:** This repository is intended **only for legal penetration testing, security research, and educational purposes** on systems you own or are explicitly authorized to test.
+> ⚠️ **Disclaimer:** This repository is intended **only for legal penetration testing, security research, and educational purposes** on systems you own or are explicitly authorized to test
 
 ---
 
@@ -23,7 +23,7 @@ The payloads include variations using:
 - Unicode and escape sequence encoding
 - Attribute injection
 - JavaScript URI variations
-- CSS-based payloads
+- CSS-based payloads 
 - Legacy browser payloads
 - Browser parsing edge cases
 
